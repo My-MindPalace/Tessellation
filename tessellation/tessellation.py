@@ -43,7 +43,7 @@ def tessellation():
     global tile,tessellation_dimension,tile_dimension
     tile_row = 0
     tile_column = 0
-    print("Enter the array")
+    print("Enter the tile")
 
     for i in range(tile_dimension):
         tile.append([])
